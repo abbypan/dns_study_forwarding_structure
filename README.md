@@ -1,6 +1,8 @@
 # dns_study_forwarding_structure
 forwarding resolver -> recursiver resolver
 
+[Public Recusolver Response Accuracy Problem](public_resolver_response_accuracy.md)
+
 # code/
 
 ## bind
